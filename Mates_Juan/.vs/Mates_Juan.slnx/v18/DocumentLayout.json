@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufGaming\\Documents\\Entorns\\Tema1\\Repo_Mates\\Mates_Juan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A0594B-97BA-4F2C-A7F4-D622BE508A28}|MatesConsola\\MatesConsola.csproj|c:\\users\\tufgaming\\documents\\entorns\\tema1\\repo_mates\\mates_juan\\matesconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A0594B-97BA-4F2C-A7F4-D622BE508A28}|MatesConsola\\MatesConsola.csproj|solutionrelative:matesconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9148FDB-8A63-4E72-9CFE-970B8E194209}|MatesLab\\MatesLab.csproj|c:\\users\\tufgaming\\documents\\entorns\\tema1\\repo_mates\\mates_juan\\mateslab\\mates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9148FDB-8A63-4E72-9CFE-970B8E194209}|MatesLab\\MatesLab.csproj|solutionrelative:mateslab\\mates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290B9E5-60C7-455A-BB50-6164780A21EC}|Mates\\Mates.csproj|c:\\users\\tufgaming\\documents\\entorns\\tema1\\repo_mates\\mates_juan\\mates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F290B9E5-60C7-455A-BB50-6164780A21EC}|Mates\\Mates.csproj|solutionrelative:mates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TufGaming\\Documents\\Entorns\\Tema1\\Repo_Mates\\Mates_Juan\\MatesConsola\\Program.cs",
+              "RelativeDocumentMoniker": "MatesConsola\\Program.cs",
+              "ToolTip": "C:\\Users\\TufGaming\\Documents\\Entorns\\Tema1\\Repo_Mates\\Mates_Juan\\MatesConsola\\Program.cs",
+              "RelativeToolTip": "MatesConsola\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:28:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mates.cs",
+              "DocumentMoniker": "C:\\Users\\TufGaming\\Documents\\Entorns\\Tema1\\Repo_Mates\\Mates_Juan\\MatesLab\\Mates.cs",
+              "RelativeDocumentMoniker": "MatesLab\\Mates.cs",
+              "ToolTip": "C:\\Users\\TufGaming\\Documents\\Entorns\\Tema1\\Repo_Mates\\Mates_Juan\\MatesLab\\Mates.cs",
+              "RelativeToolTip": "MatesLab\\Mates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:58:47.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TufGaming\\Documents\\Entorns\\Tema1\\Repo_Mates\\Mates_Juan\\Mates\\Program.cs",
+              "RelativeDocumentMoniker": "Mates\\Program.cs",
+              "ToolTip": "C:\\Users\\TufGaming\\Documents\\Entorns\\Tema1\\Repo_Mates\\Mates_Juan\\Mates\\Program.cs",
+              "RelativeToolTip": "Mates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:55:29.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

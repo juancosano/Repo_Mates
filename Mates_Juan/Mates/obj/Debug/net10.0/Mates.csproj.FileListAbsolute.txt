@@ -1,0 +1,15 @@
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\bin\Debug\net10.0\Mates.exe
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\bin\Debug\net10.0\Mates.deps.json
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\bin\Debug\net10.0\Mates.runtimeconfig.json
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\bin\Debug\net10.0\Mates.dll
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\bin\Debug\net10.0\Mates.pdb
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\obj\Debug\net10.0\Mates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\obj\Debug\net10.0\Mates.AssemblyInfoInputs.cache
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\obj\Debug\net10.0\Mates.AssemblyInfo.cs
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\obj\Debug\net10.0\Mates.csproj.CoreCompileInputs.cache
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\obj\Debug\net10.0\Mates.sourcelink.json
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\obj\Debug\net10.0\Mates.dll
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\obj\Debug\net10.0\refint\Mates.dll
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\obj\Debug\net10.0\Mates.pdb
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\obj\Debug\net10.0\Mates.genruntimeconfig.cache
+C:\Users\TufGaming\Documents\Entorns\Tema1\Repo_Mates\Mates_Juan\Mates\obj\Debug\net10.0\ref\Mates.dll
